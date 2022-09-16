@@ -5,4 +5,5 @@ def sum_l(l):
             raise Exception("not a number")
         else:
             res += i
+        res += i
     return res
